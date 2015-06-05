@@ -1,0 +1,195 @@
+#container{
+    width:960px;
+    height:610px;
+    margin: 50px auto;
+}
+
+.error{
+    color: red;
+    font-size: 13px;
+    margin-bottom: -15px;
+}
+
+form{
+    width: 345px;
+    padding: 0px 50px 20px;
+    background: linear-gradient(#fff,#25383C);
+    border: 1px solid #ccc;
+    box-shadow: 0 0 5px;
+    font-family: 'Marcellus', serif;
+    float:left;
+    margin-top: 10px;
+}
+
+h1{
+    text-align: center;
+    font-size: 28px;
+}
+
+hr{
+    border: 0;
+    border-bottom: 1.5px solid #ccc;
+    margin-top: -10px;
+    margin-bottom: 30px;
+}
+
+label{
+    font-size: 17px;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    margin: 6px 0 20px; 
+    border: none;
+    box-shadow: 0 0 5px;
+}
+
+
+input#submit{
+    width: 5px;
+    margin-top: 20px;
+    font-size: 18px;
+    background: #aaaaaa;
+    border: 1px solid #0F799E;
+    color: #aaaaaa;
+    font-weight: bold;
+    cursor: pointer;
+    text-shadow: 0px 1px 0px #13506D;
+}
+
+input#submit:hover{
+    background: linear-gradient(#36caf0 5%, #22abe9 100%);
+}
+
+
+
+    #login_form
+{   float: right;
+    position: relative;
+    margin-top: 8px !important;
+    }
+.error{
+    float:left;
+    border: 1px solid #FF607D;
+    padding: 10px;
+}
+
+
+#main{
+    width:1050px;
+    margin:50px auto;
+    font-family:raleway;
+}
+span{
+    color:red;
+}
+h2{
+    background-color: #FEFFED;
+    text-align:center;
+    border-radius: 10px 10px 0 0;
+    margin: -10px -40px;
+    padding: 30px;
+}
+hr{
+    border:0;
+    border-bottom:1px solid #ccc;
+    margin: 10px -40px;
+    margin-bottom: 30px;
+}
+#login{
+    width:450px;
+    float: right;
+    border-radius: 10px;
+    font-family:raleway;
+    border: 2px solid #ccc;
+    padding: 10px 40px 25px;
+    margin-top: -8px;
+}
+
+#register{
+    width:400px;
+    float: left;
+    border-radius: 10px;
+    font-family:raleway;
+    border: 2px solid #ccc;
+    padding: 10px 40px 25px;
+    margin-top: -8px;
+}
+input[type=text],input[type=password], input[type=email]{
+    width:99.5%;
+    padding: 10px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    padding-left: 5px;
+    font-size: 16px;
+    font-family:raleway;
+} 
+input[type=submit]{
+    width: 50%;
+    background-color:#FFBC00;
+    color: white;
+    border: 2px solid #FFCB00;
+    padding: 10px;
+    font-size:20px;
+    cursor:pointer;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+#profile{
+    padding:50px;
+    font-size:20px;
+    background-color:#DCE6F7;
+}
+#logout{
+    float: right;
+padding: 5px;
+border: dashed 1px gray;
+margin-top: -126px;
+margin-right: 36px;
+font-size: 20px;
+}
+a{
+    text-decoration:none;
+    color: cornflowerblue;
+}
+i{
+    color: cornflowerblue;
+}
+.error_msg{
+    color:red;
+    font-size: 16px;
+}
+
+
+
+
+#header{
+    width:1050px;
+    margin:50px auto;
+    height: 100px;
+    background: #658CBF;
+    }
+
+    #abc {
+        width: 30%;
+    background-color: #aaaaaa;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius:6px;
+    color: #aaaaaa;
+    font-family: 'Oswald';
+    font-size: 20px;
+    text-decoration: none;
+    cursor: pointer;
+    border:none;
+}
+
+
+
+#submit:hover {
+    border: none;
+    background:red;
+    box-shadow: 0px 0px 1px #777;
+}
+/*-----CSS for Right Side Advertisement----*/
